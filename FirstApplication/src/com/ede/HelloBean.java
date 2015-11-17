@@ -12,7 +12,7 @@ public class HelloBean {
 
 	@TraceCall
   public String getSentence() {
-	  return "Hi EJB";
+	  return "Hi MASTER EJB";
   }
 
 }
